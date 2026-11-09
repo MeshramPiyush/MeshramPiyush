@@ -43,10 +43,6 @@ My projects aren't just notebooks — they answer real business questions: *Whic
 
 ## Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-
 ### 🛒 Customer Shopping Behavior Analysis
 Analyzed **3,900 purchase records (~$233K in sales)** across 18 attributes to uncover spending, discount, and subscription patterns.
 
@@ -55,12 +51,9 @@ Analyzed **3,900 purchase records (~$233K in sales)** across 18 attributes to un
 - **Key findings:** ~43% of purchases used discounts · 27% customer subscription rate · Clothing ≈ 44% of purchases
 - **Impact:** recommended targeted offers over blanket discounts to convert ~73% non-subscribers into repeat buyers
 
-**Tools:** Python · SQL Server · Power BI · Excel
+**Tools:** Python · SQL Server · Power BI · Excel — [View Repository](https://github.com/MeshramPiyush/Customer-Shopping-And-Trend-Analysis)
 
-👉 [View Repository](https://github.com/MeshramPiyush/Customer-Shopping-And-Trend-Analysis)
-
-    </td>
-    <td width="50%">
+---
 
 ### 🏥 Healthcare Risk Stratification Analysis
 Built a relational **SQL Server database** (4 linked tables, ~1,000 patient records) to flag high-risk patients.
@@ -70,14 +63,9 @@ Built a relational **SQL Server database** (4 linked tables, ~1,000 patient reco
 - **Key findings:** ~18% of patients are 65+ with abnormal labs · top 3 diagnoses ≈ 55% of treatment costs
 - **Impact:** enabled preventive screening prioritization and focused cost control
 
-**Tools:** SQL Server (SSMS) · Python · Excel · Git/GitHub
+**Tools:** SQL Server (SSMS) · Python · Excel · Git/GitHub — [View Repository](https://github.com/MeshramPiyush/Healthcare-Risk-Stratification-Analysis)
 
-👉 [View Repository](https://github.com/MeshramPiyush/Healthcare-Risk-Stratification-Analysis)
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
+---
 
 ### ⚡ Zepto SQL Data Analysis
 Explored **3,700+ product listings** across 14 categories to audit pricing, discounts, and stock health.
@@ -87,23 +75,14 @@ Explored **3,700+ product listings** across 14 categories to audit pricing, disc
 - **Key finding:** ~450 out-of-stock listings (**~12%**), including high-MRP products = revenue at risk
 - **Impact:** prioritized restocking of premium items and margin review on discounted categories
 
-**Tools:** SQL Server (SSMS)
+**Tools:** SQL Server (SSMS) — [View Repository](https://github.com/MeshramPiyush/Zepto-SQL-Data-Analysis)
 
-👉 [View Repository](https://github.com/MeshramPiyush/Zepto-SQL-Data-Analysis)
-
-    </td>
-    <td width="50%">
+---
 
 ### 🌐 Personal Portfolio Website
 A responsive portfolio built with **HTML** to showcase projects, skills, and work.
 
-**Tools:** HTML · CSS
-
-👉 [View Repository](https://github.com/MeshramPiyush/piyush-portfolio)
-
-    </td>
-  </tr>
-</table>
+**Tools:** HTML · CSS — [View Repository](https://github.com/MeshramPiyush/piyush-portfolio)
 
 ---
 
@@ -139,15 +118,6 @@ Class XII (Maharashtra State Board): **91%** · Class X (CBSE): **87.4%**
 ## Certifications
 
 `Data Science` — CodeWithHarry · `Data Analytics` — TuteDude · `AI-Data Engineering Analyst` — Skill India · `SQL for Data Analysis` — Simplilearn · `Power BI for Beginners` — Simplilearn · `Programming with Python` — Internshala
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MeshramPiyush&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MeshramPiyush&hide_border=true" alt="GitHub Streak"/>
-</p>
 
 ---
 
